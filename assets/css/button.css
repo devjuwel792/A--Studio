@@ -1,0 +1,62 @@
+.button {
+  padding: 13px 30px;
+  border-radius: 60px;
+  background: #2639ed;
+  font-size: 15px;
+  border: none;
+  margin-top: 20px;
+  color: rgb(255, 255, 255);
+}
+
+.email-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 60px;
+  background: #2639ed;
+  font-size: 15px;
+  border: none;
+
+  color: rgb(255, 255, 255);
+}
+/* card  */
+
+.a-card {
+  width: 250px;
+  background-color: aquamarine;
+  padding: 50px 20px;
+
+  border: 1px solid #f2f2f2;
+  background: #ffffff;
+  box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.05);
+}
+.a-card .a-card-img {
+  display: flex;
+  justify-content: center;
+}
+.a-card .a-card-img div {
+  height: 80px;
+  width: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 17px;
+  border-radius: 20px;
+}
+.a-card-img-color-1 {
+  background: #f1f7ff;
+}
+.a-card-img-color-2 {
+  background: #fff2f8;
+}
+.a-card-img-color-3 {
+  background: #fff7e3;
+}
+.a-card-img-color-4 {
+  background: #deffee;
+}
+.a-card .a-card-detail {
+}
+.a-card .a-card-detail .title {
+}
+.a-card .a-card-detail p {
+}

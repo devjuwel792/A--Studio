@@ -1,0 +1,25 @@
+.product img {
+  height: auto;
+  width: 550px;
+  /* position: relative; */
+  border-radius: 20px;
+}
+
+.product {
+  position: relative;
+}
+.video-btn {
+  position: absolute;
+  content: " ";
+  height: 78px;
+  width: 78px;
+  background-color: #2639ed;
+  z-index: 9;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  border-radius: 50%;
+  cursor: pointer;
+}

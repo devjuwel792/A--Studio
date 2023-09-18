@@ -1,0 +1,32 @@
+.newsletter {
+  /* width: 1197px; */
+  height: 200px;
+  border-radius: 75px;
+  background: #f4f9ff;
+  background-image: url(../Images/Rectangle\ 31.png);
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-size: contain;
+}
+
+.email-box {
+  width: 400px;
+  height: 60px;
+  border-radius: 60px;
+  border: 1px solid #f1f1f1;
+  background: #fff;
+  padding: 20px 20px 20px 30px;
+
+  /* Shadow_1 */
+  box-shadow: 10px 20px 50px 0px rgba(0, 0, 0, 0.15);
+}
+
+.email-box input {
+  border: none;
+  width: 60%;
+  height: 40px;
+}
+
+input:focus {
+  outline: none;
+}

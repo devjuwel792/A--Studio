@@ -1,0 +1,12 @@
+.tes-img {
+  border-radius: 500px 0 500px 500px;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
